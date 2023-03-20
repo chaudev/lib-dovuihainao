@@ -1,12 +1,12 @@
 {
   "name": "dovuihainao",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "This is a React Native library of Nguyen Phuc Bao Chau",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "npm i green-native"
+    "test": "npm i dovuihainao"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
     "Đố vui"
   ],
   "author": "Nguyễn Phúc Bảo Châu (baochau9xx, chaudev)",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/chaudev/lib-dovuihainao/issues"
   },
